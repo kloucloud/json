@@ -1,0 +1,92 @@
+{
+    "evenement": "liste_Jeux",
+    "active": true,
+    "jeux": [
+      {
+        "nom": "Duke Nukem 3D",
+        "plateforme": "PC"
+      },
+      {
+        "nom": "Dune 2",
+        "plateforme": "PC"
+
+      },
+      {
+        "nom": "Ishar 3",
+        "plateforme": "Amiga"
+      },
+      {
+        "nom": "Super Soccer",
+        "plateforme": "SNES"
+      },
+      {
+        "nom": "Bomb Jack",
+        "plateforme": "Arcade"
+      },
+      {
+        "nom": "Rygar",
+        "plateforme": "Arcade"
+      },
+      {
+        "nom": "Ion Fury",
+        "plateforme": "PC"
+      },
+      {
+        "nom": "Firewatch",
+        "plateforme": "PC"
+      },
+      {
+        "nom": "Alien Isolation",
+        "plateforme": "PC"
+      },
+      {
+        "nom": "Street of Rage 2",
+        "plateforme": "Sega Megadrive"
+      },
+      {
+        "nom": "BroForce",
+        "plateforme": "PC"
+      },
+      {
+        "nom": "SpeedBall 2",
+        "plateforme": "Amiga"
+      },
+      {
+        "nom": "Gauntlet",
+        "plateforme": "Arcade"
+      },
+      {
+        "nom": "Shadow Dancer",
+        "plateforme": "Sega Megadrive"
+      },
+      {
+        "nom": "Full Throttle",
+        "plateforme": "PC"
+      },
+      {
+        "nom": "Great Courts 2",
+        "plateforme": "Amiga"
+      },
+      {
+        "nom": "Hang-On",
+        "plateforme": "Arcade"
+      } ,
+      {
+        "nom": "Prince Of Persia",
+        "plateforme": "Amiga"
+      },
+      {
+        "nom": "Barbarian",
+        "plateforme": "Amstrad"
+      },
+      {
+        "nom": "Bruce Lee",
+        "plateforme": "Amstrad"
+      },
+      {
+        "nom": "Double Dragon",
+        "plateforme": "Arcade"
+      },
+    ]
+  }
+  

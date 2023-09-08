@@ -1,0 +1,277 @@
+{
+    "evenement": "Coupe du Monde",
+    "equipes": [
+      {
+        "classement": "2",
+        "nom": "France",
+        "formation": 442,
+        "forces": [
+            "vitesse", 
+            "banc", 
+            "technique"
+        ]
+      },
+      {
+        "classement": "1",
+        "nom": "Argentine",
+        "formation": 433,
+        "forces": [
+          "fautes non sifflees",
+          "technique",
+          "aggressivite"
+        ]
+      },
+      {
+        "classement": "3",
+        "nom": "Bresil",
+        "formation": 442,
+        "forces": [
+          "technique",
+          "vitesse"
+        ]
+      },
+      {
+        "classement": "4",
+        "nom": "Belgique",
+        "formation": 451,
+        "forces": [
+          "technique",
+          "physique"
+        ]
+      },
+      {       
+        "classement": "11",
+        "nom": "Italie",
+        "formation": 343,
+        "forces": [
+          "technique",
+          "aggressivite"
+        ]
+      },
+      {
+        "classement": "8",
+        "nom": "Allemagne",
+        "formation": 442,
+        "forces": [
+          "vitesse",
+          "physique"
+        ]
+      },
+      {
+        "classement": "10",
+        "nom": "Pays-Bas",
+        "formation": 442,
+        "forces": [
+          "technique",
+          "physique"
+        ]
+      },
+      {        
+        "classement": "5",
+        "nom": "Espagne",
+        "formation": 352,
+        "forces": [
+          "technique",
+          "vitesse"
+        ]
+      },
+      {        
+        "classement": "7",
+        "nom": "Uruguay",
+        "formation": 352,
+        "forces": [
+          "technique",
+          "physique"
+        ]
+      },
+      {        
+        "classement": "6",
+        "nom": "Portugal",
+        "formation": 343,
+        "forces": [
+          "technique",
+          "physique"
+        ]
+      },
+      {        
+        "classement": "9",
+        "nom": "Angleterre",
+        "formation": 433,
+        "forces": [
+          "physique",
+          "vitesse"
+        ]
+      },
+      {        
+        "classement": "12",
+        "nom": "Croatie",
+        "formation": 442,
+        "forces": [
+          "technique",
+          "banc"
+        ]
+      },
+      {        
+        "classement": "13",
+        "nom": "Mexique",
+        "formation": 442,
+        "forces": [
+          "technique",
+          "vitesse"
+        ]
+      },
+      {        
+        "classement": "15",
+        "nom": "Senegal",
+        "formation": 433,
+        "forces": [
+          "physique"
+        ]
+      },
+      {        
+        "classement": "14",
+        "nom": "Japon",
+        "formation": 541,
+        "forces": [
+          "vitesse"
+        ]
+      },
+      {        
+        "classement": "16",
+        "nom": "Maroc",
+        "formation": 352,
+        "forces": [
+          "technique"
+        ]
+      },
+      {        
+        "classement": "17",
+        "nom": "Danemark",
+        "formation": 442,
+        "forces": [
+          "technique"
+        ]
+      },
+      {        
+        "classement": "18",
+        "nom": "Algerie",
+        "formation": 433,
+        "forces": [
+          "vitesse"
+        ]
+      },
+      {        
+        "classement": "19",
+        "nom": "Coree du Sud",
+        "formation": 442,
+        "forces": [
+          "technique"
+        ]
+      },
+      {        
+        "classement": "22",
+        "nom": "Cote d'Ivoire",
+        "formation": 442,
+        "forces": [
+          "vitesse"
+        ]
+      },
+      {        
+        "classement": "21",
+        "nom": "Chili",
+        "formation": 442,
+        "forces": [
+          "vitesse"
+        ]
+      },
+      {        
+        "classement": "20",
+        "nom": "Suede",
+        "formation": 442,
+        "forces": [
+          "technique"
+        ]
+      },
+      {        
+        "classement": "23",
+        "nom": "Russie",
+        "formation": 433,
+        "forces": [
+          "technique"
+        ]
+      },
+      {        
+        "classement": "24",
+        "nom": "Nigeria",
+        "formation": 343,
+        "forces": [
+          "vitesse"
+        ]
+      },
+      {        
+        "classement": "25",
+        "nom": "Afrique du Sud",
+        "formation": 442,
+        "forces": [
+          "technique"
+        ]
+      },
+      {        
+        "classement": "26",
+        "nom": "Arabie Saoudite",
+        "formation": 442,
+        "forces": [
+          "banc"
+        ]
+      },
+      {        
+        "classement": "27",
+        "nom": "Finlande",
+        "formation": 442,
+        "forces": [
+          "banc"
+        ]
+      },
+      {        
+        "classement": "28",
+        "nom": "Ecosse",
+        "formation": 433,
+        "forces": [
+          "vitesse"
+        ]
+      },
+      {        
+        "classement": "29",
+        "nom": "Irlande",
+        "formation": 451,
+        "forces": [
+          "technique"
+        ]
+      },
+      {        
+        "classement": "30",
+        "nom": "Costa Rica",
+        "formation": 541,
+        "forces": [
+          "technique"
+        ]
+      },
+      {        
+        "classement": "32",
+        "nom": "Jamaique",
+        "formation": 442,
+        "forces": [
+          "physique"
+        ]
+      },
+      {        
+        "classement": "31",
+        "nom": "Iran",
+        "formation": 433,
+        "forces": [
+          "technique"
+        ]
+      }
+    ]
+  }
+  

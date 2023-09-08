@@ -1,0 +1,111 @@
+{
+    "ensemble": "Monde",
+    "planetes": [
+      {
+        "Continent": "Europe",
+        "pays": [
+            "France",
+            "Angleterre",
+            "Ecosse",
+            "Allemagne",
+            "Pologne",
+            "Espagne",
+            "Belgique",
+            "Luxembourg",
+            "Italie",
+            "Suede",
+            "Norvege",
+            "Irlande",
+            "Islande",
+            "Portugal",
+            "Suisse",
+            "Pays-Bas",
+            "Autriche",
+            "Bulgarie",
+            "Roumanie"
+        ]
+      },
+      {
+        "Continent": "Asie",
+        "pays": [
+            "Chine",
+            "Russie",
+            "Inde",
+            "Japon",
+            "Mongolie",
+            "Thailande",
+            "Laos",
+            "Pakistan",
+            "Afghanistan",
+            "Kazakhstan",
+            "Sri Lanka",
+            "Bangladesh",
+            "Cambodge"
+        ]
+      },
+      {
+        "Continent": "Afrique",
+        "pays": [
+            "Maroc",
+            "Algerie",
+            "Egypte",
+            "Mali",
+            "Niger",
+            "Nigeria",
+            "Afrique du Sud",
+            "Somalie",
+            "Soudan",
+            "Tchad",
+            "Libye",
+            "Cameroun",
+            "Cote d'Ivoire",
+            "Guinee",
+            "Cap-Vert",
+            "Namibie",
+            "Angola"
+        ]
+      },
+      {
+        "Continent": "Oceanie",
+        "pays": [
+            "Australie",
+            "Fidji",
+            "Nouvelle-Zelande",
+            "Palaos",
+            "Samoa",
+            "Tonga",
+            "Vanuatu",
+            "Papouasie Nouvelle-Guinée"
+        ]
+      },
+      {
+        "Continent": "Ameriques",
+        "pays": [
+            "Bresil",
+            "Argentine",
+            "Uruguay",
+            "Canada",
+            "Etats-Unis",
+            "Mexique",
+            "Colombie",
+            "Perou",
+            "Chili",
+            "Venezuela",
+            "Uruguay",
+            "Bolivie",
+            "Cuba",
+            "Jamaique",
+            "Honduras",
+            "Panama",
+            "Costa Rica"
+        ]
+      },
+      {
+        "Continent": "Antartique",
+        "pays": [
+            "Aucun"
+        ]
+      }
+    ]
+  }
+  
